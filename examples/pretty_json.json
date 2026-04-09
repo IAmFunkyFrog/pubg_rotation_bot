@@ -1,0 +1,4164 @@
+[
+  "$",
+  "$L30",
+  null,
+  {
+    "patches": [
+      {
+        "consoleEnd": "$D2026-02-12T01:00:00.000Z",
+        "consoleMapChangeTime": "07:00",
+        "consoleMapChangeWeekday": 4,
+        "consoleStart": "$D2026-01-15T01:00:00.000Z",
+        "data": [
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "AS",
+            "type": "selection",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "SEA",
+            "type": "selection",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "KAKAO",
+            "type": "selection",
+            "weeks": [
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "NA",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 1,
+                    "selectable": true,
+                    "type": "random",
+                    "weight": ""
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 14,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 29,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 29,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 29,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "doubleProbability": true,
+                    "name": "Erangel",
+                    "probability": 44,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "doubleProbability": true,
+                    "name": "Erangel",
+                    "probability": 40,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "SA",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 1,
+                    "selectable": true,
+                    "type": "random",
+                    "weight": ""
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 29,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 14,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 29,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 29,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "doubleProbability": true,
+                    "name": "Erangel",
+                    "probability": 44,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "doubleProbability": true,
+                    "name": "Erangel",
+                    "probability": 50,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 17,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 17,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "EU",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 1,
+                    "selectable": true,
+                    "type": "random",
+                    "weight": ""
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 29,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 14,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 29,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 29,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "doubleProbability": true,
+                    "name": "Erangel",
+                    "probability": 44,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "doubleProbability": true,
+                    "name": "Erangel",
+                    "probability": 50,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 17,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 17,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "RU",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 1,
+                    "selectable": true,
+                    "type": "random",
+                    "weight": ""
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 29,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 14,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 29,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 29,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "doubleProbability": true,
+                    "name": "Erangel",
+                    "probability": 40,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "doubleProbability": true,
+                    "name": "Erangel",
+                    "probability": 44,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": true,
+            "forPc": false,
+            "regionId": "Console",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 1,
+                    "selectable": true,
+                    "type": "random",
+                    "weight": ""
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "doubleProbability": true,
+                    "name": "Erangel",
+                    "probability": 44,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "doubleProbability": true,
+                    "name": "Erangel",
+                    "probability": 44,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": true,
+            "forPc": true,
+            "regionId": "Ranked",
+            "type": "ranked",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": "25",
+                    "selectable": false,
+                    "type": "random",
+                    "weight": ""
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": "25",
+                    "selectable": false,
+                    "type": "random",
+                    "weight": ""
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": "25",
+                    "selectable": false,
+                    "type": "random",
+                    "weight": ""
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": "25",
+                    "selectable": false,
+                    "type": "random",
+                    "weight": ""
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          }
+        ],
+        "dataVersion": 2,
+        "enabled": true,
+        "end": "$D2026-02-04T00:00:00.000Z",
+        "mapChangeTime": "02:00",
+        "mapChangeWeekday": 3,
+        "patch": "39.2",
+        "start": "$D2026-01-07T00:00:00.000Z"
+      },
+      {
+        "consoleEnd": "$D2026-03-19T01:00:00.000Z",
+        "consoleMapChangeTime": "07:00",
+        "consoleMapChangeWeekday": 4,
+        "consoleStart": "$D2026-02-12T01:00:00.000Z",
+        "data": [
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "AS",
+            "type": "selection",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "SEA",
+            "type": "selection",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "KAKAO",
+            "type": "selection",
+            "weeks": [
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "NA",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "SA",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 13,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 13,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 13,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 13,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "EU",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 13,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 13,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 13,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 13,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "RU",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": true,
+            "forPc": false,
+            "regionId": "Console",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": true,
+            "forPc": true,
+            "regionId": "Ranked",
+            "type": "ranked",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          }
+        ],
+        "dataVersion": 2,
+        "enabled": true,
+        "end": "$D2026-03-11T00:00:00.000Z",
+        "mapChangeTime": "02:00",
+        "mapChangeWeekday": 3,
+        "patch": "40.1",
+        "start": "$D2026-02-04T00:00:00.000Z"
+      },
+      {
+        "consoleEnd": "$D2026-04-16T00:00:00.000Z",
+        "consoleMapChangeTime": "07:00",
+        "consoleMapChangeWeekday": 4,
+        "consoleStart": "$D2026-03-19T01:00:00.000Z",
+        "data": [
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "AS",
+            "type": "selection",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "SEA",
+            "type": "selection",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "KAKAO",
+            "type": "selection",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "selectable": false,
+                    "type": "basic"
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "selectable": false,
+                    "type": "basic"
+                  }
+                },
+                "type": "basic"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "NA",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 40,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": "2"
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 40,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 40,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "SA",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 40,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 44,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 44,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "EU",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 40,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 44,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 44,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "name": "Sanhok",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": false,
+            "forPc": true,
+            "regionId": "RU",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 40,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 40,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "doubleProbability": true,
+                    "name": "Deston",
+                    "probability": 40,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 15,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 11,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": true,
+            "forPc": false,
+            "regionId": "Console",
+            "type": "random",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Paramo": {
+                    "name": "Paramo",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 44,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Karakin": {
+                    "name": "Karakin",
+                    "probability": 8,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Rondo": {
+                    "doubleProbability": true,
+                    "name": "Rondo",
+                    "probability": 44,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 16,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Sanhok": {
+                    "doubleProbability": true,
+                    "name": "Sanhok",
+                    "probability": 22,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 1
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              },
+              {
+                "maps": {
+                  "Deston": {
+                    "name": "Deston",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Vikendi": {
+                    "name": "Vikendi",
+                    "probability": 20,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          },
+          {
+            "forConsole": true,
+            "forPc": true,
+            "regionId": "Ranked",
+            "type": "ranked",
+            "weeks": [
+              {
+                "maps": {
+                  "Erangel": {
+                    "name": "Erangel",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Miramar": {
+                    "name": "Miramar",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Rondo": {
+                    "name": "Rondo",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  },
+                  "Taego": {
+                    "name": "Taego",
+                    "probability": 25,
+                    "selectable": false,
+                    "type": "random",
+                    "weight": 2
+                  }
+                },
+                "type": "random"
+              }
+            ]
+          }
+        ],
+        "dataVersion": 2,
+        "enabled": true,
+        "end": "$D2026-04-07T23:00:00.000Z",
+        "mapChangeTime": "02:00",
+        "mapChangeWeekday": 3,
+        "patch": "40.2",
+        "start": "$D2026-03-11T00:00:00.000Z"
+      }
+    ]
+  }
+]
