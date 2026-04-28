@@ -9,6 +9,13 @@ fn prettify_rotation(region: &str, rotation: &Vec<(String, f32)>) -> String {
     let pretty_map_names = std::collections::HashMap::from([
         ("Erangel", "🏝️ Erangel".to_string()),
         ("Miramar", "☀️ Miramar".to_string()),
+        ("Sanhok", "🏔️ Sanhok".to_string()),
+        ("Taego", "🏰 Taego".to_string()),
+        ("Vikendi", "❄️ Vikendi".to_string()),
+        ("Karakin", "🏙️ Karakin".to_string()),
+        ("Deston", "🏠 Deston".to_string()),
+        ("Paramo", "🏔️ Paramo".to_string()),
+        ("Rondo", "🌲 Rondo".to_string()),
     ]);
 
     rotation.iter()
@@ -93,4 +100,119 @@ async fn main() {
         .build()
         .dispatch()
         .await;
+}
+
+#[cfg(test)]
+mod emoji_tests {
+    use super::*;
+
+    #[test]
+    fn test_erangel_emoji() {
+        let map_names = prettify_rotation("Test", &vec![("Erangel".to_string(), 100.0)]);
+        assert!(map_names.contains("🏝️ Erangel"));
+    }
+
+    #[test]
+    fn test_miramar_emoji() {
+        let map_names = prettify_rotation("Test", &vec![("Miramar".to_string(), 100.0)]);
+        assert!(map_names.contains("☀️ Miramar"));
+    }
+
+    #[test]
+    fn test_sanhok_emoji() {
+        let map_names = prettify_rotation("Test", &vec![("Sanhok".to_string(), 100.0)]);
+        assert!(map_names.contains("🏔️ Sanhok"));
+    }
+
+    #[test]
+    fn test_taego_emoji() {
+        let map_names = prettify_rotation("Test", &vec![("Taego".to_string(), 100.0)]);
+        assert!(map_names.contains("🏰 Taego"));
+    }
+
+    #[test]
+    fn test_vikendi_emoji() {
+        let map_names = prettify_rotation("Test", &vec![("Vikendi".to_string(), 100.0)]);
+        assert!(map_names.contains("❄️ Vikendi"));
+    }
+
+    #[test]
+    fn test_karakin_emoji() {
+        let map_names = prettify_rotation("Test", &vec![("Karakin".to_string(), 100.0)]);
+        assert!(map_names.contains("🏙️ Karakin"));
+    }
+
+    #[test]
+    fn test_deston_emoji() {
+        let map_names = prettify_rotation("Test", &vec![("Deston".to_string(), 100.0)]);
+        assert!(map_names.contains("🏠 Deston"));
+    }
+
+    #[test]
+    fn test_paramo_emoji() {
+        let map_names = prettify_rotation("Test", &vec![("Paramo".to_string(), 100.0)]);
+        assert!(map_names.contains("🏔️ Paramo"));
+    }
+
+    #[test]
+    fn test_rondo_emoji() {
+        let map_names = prettify_rotation("Test", &vec![("Rondo".to_string(), 100.0)]);
+        assert!(map_names.contains("🌲 Rondo"));
+    }
+
+    #[test]
+    fn test_all_emojis_are_in_output() {
+        let rotation = vec![
+            ("Erangel".to_string(), 10.0),
+            ("Miramar".to_string(), 20.0),
+            ("Sanhok".to_string(), 30.0),
+            ("Taego".to_string(), 40.0),
+            ("Vikendi".to_string(), 50.0),
+            ("Karakin".to_string(), 60.0),
+            ("Deston".to_string(), 70.0),
+            ("Paramo".to_string(), 80.0),
+            ("Rondo".to_string(), 90.0),
+        ];
+        let output = prettify_rotation("Test", &rotation);
+        
+        assert!(output.contains("🏝️ Erangel"));
+        assert!(output.contains("☀️ Miramar"));
+        assert!(output.contains("🏔️ Sanhok"));
+        assert!(output.contains("🏰 Taego"));
+        assert!(output.contains("❄️ Vikendi"));
+        assert!(output.contains("🏙️ Karakin"));
+        assert!(output.contains("🏠 Deston"));
+        assert!(output.contains("🏔️ Paramo"));
+        assert!(output.contains("🌲 Rondo"));
+    }
+
+    #[test]
+    fn test_map_names_preserved_in_emoji_strings() {
+        let map_names = prettify_rotation("Test", &vec![("Erangel".to_string(), 100.0)]);
+        assert!(map_names.contains("Erangel"));
+        
+        let map_names = prettify_rotation("Test", &vec![("Miramar".to_string(), 100.0)]);
+        assert!(map_names.contains("Miramar"));
+        
+        let map_names = prettify_rotation("Test", &vec![("Sanhok".to_string(), 100.0)]);
+        assert!(map_names.contains("Sanhok"));
+        
+        let map_names = prettify_rotation("Test", &vec![("Taego".to_string(), 100.0)]);
+        assert!(map_names.contains("Taego"));
+        
+        let map_names = prettify_rotation("Test", &vec![("Vikendi".to_string(), 100.0)]);
+        assert!(map_names.contains("Vikendi"));
+        
+        let map_names = prettify_rotation("Test", &vec![("Karakin".to_string(), 100.0)]);
+        assert!(map_names.contains("Karakin"));
+        
+        let map_names = prettify_rotation("Test", &vec![("Deston".to_string(), 100.0)]);
+        assert!(map_names.contains("Deston"));
+        
+        let map_names = prettify_rotation("Test", &vec![("Paramo".to_string(), 100.0)]);
+        assert!(map_names.contains("Paramo"));
+        
+        let map_names = prettify_rotation("Test", &vec![("Rondo".to_string(), 100.0)]);
+        assert!(map_names.contains("Rondo"));
+    }
 }
