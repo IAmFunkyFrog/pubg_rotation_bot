@@ -1,7 +1,7 @@
 mod rotation;
 
 use teloxide::{dispatching::dialogue::GetChatId, prelude::*, types::{InlineKeyboardButton, InlineKeyboardMarkup, ReplyMarkup}};
-use std::{collections::HashMap, str};
+use std::str;
 use reqwest;
 use rotation::{*};
 
@@ -62,11 +62,12 @@ async fn handle_callback_query(bot: Bot, q: CallbackQuery) -> ResponseResult<()>
     if let Some(chat_id) = q.chat_id() {
         if let Some(region) = q.data {
             bot.send_message(chat_id, format!("Запрашиваем ротацию на {}", map_rotation_url)).await?;
-            if let Ok(rotation) = get_rotation(map_rotation_url, region.as_str()).await {
-                bot.send_message(chat_id, prettify_rotation(region.as_str(), &rotation)).await?;
-            } else {
-                bot.send_message(chat_id, format!("Проблемы с доступом к {}", map_rotation_url)).await?;
-            }
+            match get_rotation(map_rotation_url, region.as_str()).await {
+                Ok(rotation) => bot.send_message(chat_id, prettify_rotation(region.as_str(), &rotation)).await?,
+                Err(GetRotationError::ParseError(parse_err)) => bot.send_message(chat_id, format!("Не получилось распарсить json: {}", parse_err)).await?,
+                Err(GetRotationError::MissingInformation(missing_err)) => bot.send_message(chat_id, format!("Не нашли ротацию для текущего времени: {}", missing_err)).await?,
+                _ => bot.send_message(chat_id, format!("Проблемы с доступом к {}", map_rotation_url)).await?
+            };
         }
         bot.answer_callback_query(q.id).await?;
     }
