@@ -171,6 +171,8 @@ impl ActualRotationData {
         // Сдвигаем на 7 дней вперед — это и будет момент перехода на Неделю 2 (индекс 1)
         let first_change = base_change + chrono::Duration::weeks(1);
 
+        assert!(first_change.weekday() == self.map_change_weekday, "expected that first change will be in map change day");
+
         let week_index = if moment < first_change {
             0
         } else {
@@ -187,6 +189,11 @@ impl ActualRotationData {
         let total_weeks = rotation_in_region.weeks.len();
         if total_weeks == 0 {
             return None;
+        }
+
+        if total_weeks == 1 && region == "Ranked" {
+            // В рейтинге всего одна ротация на весь патч
+            return rotation_in_region.weeks.into_iter().nth(0);
         }
 
         rotation_in_region.weeks.into_iter().nth(week_index)
@@ -298,6 +305,26 @@ mod tests {
         match result {
             Ok(_) => return,
             Err(err) => panic!("Unexpected result {:?}", err),
+        };
+    }
+
+    #[test]
+    fn parse_good_script_returns_some_ru_data() {
+        let result = parse_rotation(GOOD_SCRIPT).unwrap();
+        let moment: DateTime<Utc> = "2026-09-07T00:00:00Z".parse().unwrap();
+        match result.into_rotation_for_moment("RU", moment) {
+            Some(..) => return,
+            None => panic!("Test data contains RU rotation but it was not parsed...."),
+        };
+    }
+    
+    #[test]
+    fn parse_good_script_returns_some_ranked_data() {
+        let result = parse_rotation(GOOD_SCRIPT).unwrap();
+        let moment: DateTime<Utc> = "2026-09-07T00:00:00Z".parse().unwrap();
+        match result.into_rotation_for_moment("Ranked", moment) {
+            Some(..) => return,
+            None => panic!("Test data contains Ranked rotation but it was not parsed...."),
         };
     }
 

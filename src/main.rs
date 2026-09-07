@@ -43,10 +43,12 @@ async fn get_rotation(map_rotations_url: &str, region: &str) -> Result<Vec<(Stri
 async fn show_inline_keyboard(bot: &Bot, msg: &Message) -> ResponseResult<()> {
     // Создаем inline-кнопки разных типов
     let show_ru_rotation_button = InlineKeyboardButton::callback("Показать ротацию (RU сервер)", "RU");
+    let show_ranked_rotation_button = InlineKeyboardButton::callback("Показать ротацию (Ranked)", "Ranked");
 
     // Формируем клавиатуру (кнопки в рядах)
     let keyboard = InlineKeyboardMarkup::new([
         [show_ru_rotation_button], // Первый ряд
+        [show_ranked_rotation_button], // Первый ряд
     ]);
 
     // Отправляем сообщение с inline-клавиатурой
